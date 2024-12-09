@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)
+[![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/b75133b8-2cc3-4def-95e1-bfe2e460360f/public_url)
 
 <!--
 **Mjj4682/Mjj4682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
