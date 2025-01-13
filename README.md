@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/b75133b8-2cc3-4def-95e1-bfe2e460360f/public_url)
+[![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/56861de2-e69d-4131-92e2-d89b0218a893)](https://www.credly.com/badges/b75133b8-2cc3-4def-95e1-bfe2e460360f/public_url)
+[![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/00331740-d1a1-4ea1-a699-18465515cb9d)](https://www.credly.com/badges/b769e354-1862-43b3-bddf-3d6143ca653d/public_url)
 
 <!--
 **Mjj4682/Mjj4682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
